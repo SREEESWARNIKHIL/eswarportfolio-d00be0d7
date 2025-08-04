@@ -8,7 +8,7 @@ const ExperienceSection = () => {
       company: "Quantum ITES Private Limited",
       position: "Full Stack Developer",
       location: "Hyderabad",
-      duration: "Oct 2023 - June 2024",
+      duration: "Oct 2023 - May 2025",
       project: "ampmjobs",
       description: "Worked as a Full Stack Developer on the ampmjobs project, a platform that enables individuals, especially students, to earn money using their skills in their free time. The platform connects users to part-time earning opportunities such as event organizing, city/tour guides, designing, and other opportunities.",
       technologies: ["Java", "Spring MVC", "PostgreSQL", "REST APIs"],
